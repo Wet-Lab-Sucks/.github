@@ -1,4 +1,4 @@
-![](.github/profile/wet-lab-sucks.png)
+![](wet-lab-sucks.png)
 
 Bem-vindo(a) à página da equipe [Wet Lab Sucks](https://github.com/Wet-Lab-Sucks), finalista e **terceiro lugar** na [Liga Brasileira de Bioinformática (2025)](https://lbb.rsg-brazil.com/) - A maior competição de Bioinformática da América Latina!
 
