@@ -4,7 +4,7 @@
 
 Bem-vindo(a) à página da equipe [Wet Lab Sucks](https://github.com/Wet-Lab-Sucks), finalista e **terceiro lugar** na [Liga Brasileira de Bioinformática (2025)](https://lbb.rsg-brazil.com/) - A maior competição de Bioinformática da América Latina!
 
-Esta organização no GitHub serve como uma documentação das nossas soluções para os cinco desafios da segunda fase da competição. Cada repositório corresponde a um desafio, cobrindo áreas essenciais da Bioinformática:
+Esta organização serve como uma documentação das nossas soluções para os cinco desafios da segunda fase da competição. Cada repositório corresponde a um desafio, cobrindo áreas essenciais da Bioinformática:
 
 * [desafio-1-classificacao-cryoem](https://github.com/Wet-Lab-Sucks/desafio-1-classificacao-cryo-em): Classificação de imagens de partículas de Cryo-EM utilizando Deep Learning.
 * [desafio-2-bioinformatica-estrutural](https://github.com/Wet-Lab-Sucks/desafio-2-bioinformatica-estrutural): Análise de estruturas 3D de proteínas e interações moleculares.
